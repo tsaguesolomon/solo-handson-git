@@ -11,3 +11,7 @@ public class DemoApplication {
 	}
 
 }
+
+srting name = "solodev"
+
+system.out.print(name); print name
