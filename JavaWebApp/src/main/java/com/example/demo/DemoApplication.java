@@ -15,6 +15,3 @@ public class DemoApplication {
 srting name = "solodev"
 
 system.out.print(name); print name
-
-interger age = "20";
-system.out.printIn(age + 5);
