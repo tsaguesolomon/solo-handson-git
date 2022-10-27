@@ -8,10 +8,10 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
+	
+        Sting name = "solodev";
+        
+		system.out.printIn(name);
 	}
 
 }
-
-srting name = "solodev"
-
-system.out.print(name); print name
